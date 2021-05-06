@@ -1,0 +1,9 @@
+name: youtubeAudit
+channels:
+  - defaults
+dependencies:
+  - pandas
+  - selenium
+  - jupyterlab
+  - beautifulsoup4
+prefix: C:\Users\rubix\.conda\envs\youtubeAudit
